@@ -1,6 +1,6 @@
 # Online-Code-Editor
 
-Online Code Editor is a web application that allows users to write, edit, and execute HTML, CSS, and JavaScript code in a single interface. The application is built using React, a popular JavaScript library for building user interfaces. Users can create new projects, save their work, and share their code with others through a unique URL.
+Online Code Editor is a web application that allows users to write, edit, and execute HTML, CSS, and JavaScript code in a single interface. The application is built using React, a popular JavaScript library for building user interfaces. Users can create new projects, save their work, and share their code with others through a unique URL. This web application is similar to Codepen and Codesandbox.
 
 🚀 **Features of the Online Code Editor:**
 
